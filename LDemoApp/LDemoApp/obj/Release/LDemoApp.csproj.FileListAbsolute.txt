@@ -52,3 +52,4 @@ C:\MyFiles\Demo\LDemoAppRepo\LDemoApp\LDemoApp\bin\Microsoft.Owin.Security.Twitt
 C:\MyFiles\Demo\LDemoAppRepo\LDemoApp\LDemoApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\MyFiles\Demo\LDemoAppRepo\LDemoApp\LDemoApp\obj\Release\LDemoApp.dll
 C:\MyFiles\Demo\LDemoAppRepo\LDemoApp\LDemoApp\obj\Release\LDemoApp.pdb
+C:\MyFiles\Demo\LDemoAppRepo\LDemoApp\LDemoApp\obj\Release\LDemoApp.csprojResolveAssemblyReference.cache
