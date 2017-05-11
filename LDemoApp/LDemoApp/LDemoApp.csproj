@@ -180,10 +180,16 @@
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Deployment\DeploytoAzure.ps1" />
+    <None Include="Properties\PublishProfiles\LDemoApp - FTP %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\LDemoApp - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\LDemoApp - Web Deploy %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\LDemoApp - Web Deploy.pubxml">
       <SubType>Designer</SubType>
     </None>
+    <None Include="Properties\PublishProfiles\LDemoApp1 - FTP %282%29.pubxml" />
+    <None Include="Properties\PublishProfiles\LDemoApp1 - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\LDemoApp1 - Web Deploy %282%29.pubxml" />
+    <None Include="Properties\PublishProfiles\LDemoApp1 - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
