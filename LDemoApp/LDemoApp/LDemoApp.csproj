@@ -192,6 +192,8 @@
     <None Include="Properties\PublishProfiles\LDemoApp1 - Web Deploy.pubxml">
       <SubType>Designer</SubType>
     </None>
+    <None Include="Properties\PublishProfiles\LDemoAppTeamcity - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\LDemoAppTeamcity - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
